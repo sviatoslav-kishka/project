@@ -1,0 +1,17 @@
+.currencies-container {
+  display: flex;
+}
+
+.currency-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.exchange-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 36px;
+}
